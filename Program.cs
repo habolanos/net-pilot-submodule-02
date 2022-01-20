@@ -16,6 +16,7 @@ namespace submodule02
 			Console.WriteLine("|                 History                  |");
 			Console.WriteLine("| 20220120 < initial rollout               |");
 			Console.WriteLine("| 11:33    < minor change                  |");
+			Console.WriteLine("| 11:49    < online change                 |");
 			Console.WriteLine("+------------------------------------------+");
         }
     }
